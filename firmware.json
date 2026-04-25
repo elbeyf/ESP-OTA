@@ -1,5 +1,5 @@
 {
-  "version": 316,
-  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v316/firmware-v316.bin",
-  "notes": "Update notification bell — tap the bell icon in the bottom bar to see release notes and install updates"
+  "version": 318,
+  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v318/firmware-v318.bin",
+  "notes": "Bug fixes: first outgoing message now shows on screen, updated voice, OEM provisioning improvements"
 }
