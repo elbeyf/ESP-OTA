@@ -1,5 +1,5 @@
 {
-  "version": 318,
-  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v318/firmware-v318.bin",
-  "notes": "Bug fixes: first outgoing message now shows on screen, updated voice, OEM provisioning improvements"
+  "version": 319,
+  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v319/firmware-v319.bin",
+  "notes": "OTA update check interval reduced from 6h to 3h"
 }
