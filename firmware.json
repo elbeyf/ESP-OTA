@@ -1,1 +1,5 @@
-{"version": 315, "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v315/firmware.bin", "notes": "Korean and Japanese character support"}
+{
+  "version": 316,
+  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v316/firmware-v316.bin",
+  "notes": "Update notification bell — tap the bell icon in the bottom bar to see release notes and install updates"
+}
