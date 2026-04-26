@@ -1,5 +1,5 @@
 {
-  "version": 320,
-  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v320/firmware-v320.bin",
-  "notes": "Fix message text overlap, update alert voice prompt, fix false 'confirmed on another device'"
+  "version": 321,
+  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v321/firmware-v321.bin",
+  "notes": "Switch ElevenLabs TTS model to eleven_turbo_v2_5 for better voice quality, tune voice settings for expressiveness"
 }
