@@ -1,5 +1,5 @@
 {
-  "version": 322,
-  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v322/firmware-v322.bin",
-  "notes": "Move update bell to top-right next to settings cog"
+  "version": 323,
+  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v323/firmware-v323.bin",
+  "notes": "Silent FEEDBACK intercept — messages starting with FEEDBACK are quietly logged, no device alert"
 }
