@@ -1,5 +1,5 @@
 {
-  "version": 321,
-  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v321/firmware-v321.bin",
-  "notes": "Switch ElevenLabs TTS model to eleven_turbo_v2_5 for better voice quality, tune voice settings for expressiveness"
+  "version": 322,
+  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v322/firmware-v322.bin",
+  "notes": "Move update bell to top-right next to settings cog"
 }
