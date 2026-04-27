@@ -1,5 +1,5 @@
 {
-  "version": 323,
-  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v323/firmware-v323.bin",
-  "notes": "Silent FEEDBACK intercept — messages starting with FEEDBACK are quietly logged, no device alert"
+  "version": 324,
+  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v324/firmware-v324.bin",
+  "notes": "Updated feedback ack message copy, removed emoji"
 }
