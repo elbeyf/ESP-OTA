@@ -1,5 +1,4 @@
 {
-  "version": 325,
-  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v325/firmware-v325.bin",
-  "notes": "Fix cross-device feedback loop — silently drop system messages from other Memo devices"
+  "version": 328,
+  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v328/firmware-v328.bin"
 }
