@@ -1,5 +1,5 @@
 {
   "version": 329,
-  "url": "https://github.com/elbeyf/the-memo/releases/download/v329/firmware.bin",
+  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v329/firmware.bin",
   "notes": "MEMO-20 Japanese fonts + MEMO-21 OTA notification crash fix"
 }
