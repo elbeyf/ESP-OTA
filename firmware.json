@@ -1,5 +1,5 @@
 {
-  "version": 331,
-  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v331/firmware.bin",
-  "notes": "MEMO-23: Two-page onboarding — WiFi first, then claim"
+  "version": 332,
+  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v332/firmware.bin",
+  "notes": "v332: dark mode toggle - SMS DARK ON/OFF (admin only), NVS persist, themeColor() system"
 }
