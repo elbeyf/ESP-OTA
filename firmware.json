@@ -1,5 +1,5 @@
 {
-  "version": 333,
-  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v333/firmware.bin",
-  "notes": "v333: dark mode fix - black background, white text, explicit color palette"
+  "version": 336,
+  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v336/firmware.bin",
+  "notes": "v336: Appearance menu in settings - tap to toggle Dark/Light mode"
 }
