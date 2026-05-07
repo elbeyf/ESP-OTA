@@ -1,5 +1,5 @@
 {
-  "version": 332,
-  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v332/firmware.bin",
-  "notes": "v332: dark mode toggle - SMS DARK ON/OFF (admin only), NVS persist, themeColor() system"
+  "version": 333,
+  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v333/firmware.bin",
+  "notes": "v333: dark mode fix - black background, white text, explicit color palette"
 }
