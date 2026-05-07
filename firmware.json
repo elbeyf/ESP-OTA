@@ -1,5 +1,5 @@
 {
-  "version": 336,
-  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v336/firmware.bin",
-  "notes": "v336: Appearance menu in settings - tap to toggle Dark/Light mode"
+  "version": 337,
+  "url": "https://github.com/elbeyf/ESP-OTA/releases/download/v337/firmware.bin",
+  "notes": "v337: message history preserved across OTA updates; sequential version stepping"
 }
