@@ -1,5 +1,5 @@
 {
-  "version": 337,
-  "url": "https://github.com/firat-elbey/ESP-OTA/releases/download/v337/firmware.bin",
-  "notes": "v337: message history preserved across OTA updates; sequential version stepping"
+  "version": 338,
+  "url": "https://github.com/firat-elbey/ESP-OTA/releases/download/v338/firmware.bin",
+  "notes": "v338: update OTA manifest URL to new GitHub username (firat-elbey)"
 }
