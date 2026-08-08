@@ -1,1 +1,1 @@
-{"version":340,"url":"https://github.com/firat-elbey/ESP-OTA/releases/download/v340/firmware.bin","sha256":"8b36343b8adf4115a59588cbc3a8bc1f4992a1f640f35a847fd93158c2e53b2f","notes":"Security update: device credentials moved to a secure server."}
+{"version":341,"url":"https://github.com/firat-elbey/ESP-OTA/releases/download/v341/firmware.bin","sha256":"de562d85ce26c055cc3b82fbb787bfded6c923f1d4c282a49e55868100a5c19f","notes":"New interface, clearer memo history, family scaling, volume and ringtone controls, and improved setup and network settings."}
